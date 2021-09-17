@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lotteryAPI", "lotteryAPI\lotteryAPI.csproj", "{5F1CCAA9-D216-42BC-9370-8CA4577CE384}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F1CCAA9-D216-42BC-9370-8CA4577CE384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1CCAA9-D216-42BC-9370-8CA4577CE384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1CCAA9-D216-42BC-9370-8CA4577CE384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1CCAA9-D216-42BC-9370-8CA4577CE384}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06010121-DCD9-4384-90B7-EE2EDEB20854}
+	EndGlobalSection
+EndGlobal
